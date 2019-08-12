@@ -1,6 +1,6 @@
 # SPRING BOOT INIT PROJECT - ROOT
 
-## How to how swap spring applications:
+## How to hot swap spring applications:
 
 - add the maven dependency
 	<dependency>
