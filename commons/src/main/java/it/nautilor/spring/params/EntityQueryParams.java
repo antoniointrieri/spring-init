@@ -13,6 +13,7 @@ import java.util.Date;
 @EqualsAndHashCode
 public class EntityQueryParams {
     private String id;
-    private Integer page = 0;
-    private Integer pageSize = 10;
+    private Integer offset = 0;
+    private Integer limit = 10;
+    private boolean asc = true;
 }
